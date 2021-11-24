@@ -98,7 +98,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(430, 30);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Titulo Ventana";
+            this.label1.Text = "Titulo Ventana Ver 2.0";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // panel3
